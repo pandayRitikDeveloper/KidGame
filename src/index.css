@@ -1,0 +1,13 @@
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  background-image: url("./assets/image.svg");
+  background-size: cover; /* Cover the entire height and width */
+  background-position: center; /* Center the background image */
+  background-repeat: no-repeat;
+  height: 60vh; /* Set height to 100% of viewport height */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
